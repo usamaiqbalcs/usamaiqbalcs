@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Usama Iqbal</h1>
-<h3 align="center">A passionate full-stack .Net developer</h3>
+# 💫 About Me:
+Software Engineer | Full-Stack | ASP.NET MVC/Core | ReactJS | Azure DevOps | AWS | RabbitMq | Docker | Podman | Redis
+
+Highly motivated, skillful, and results-oriented Software Engineer with 5 years of hands-on experience in .NET <br> development. Proficient in ASP.NET MVC and .NET Core, specializing in client/server-side web development, with a strong<br> foundation in DevOps practices. Possesses strong technical acumen and exceptional interpersonal skills, enabling effective<br> collaboration with cross-functional teams. Skilled in leveraging a diverse range of programs and tools to deliver high<br>quality, cost-effective applications and systems, driving organizational efficiency and productivity. Demonstrates<br> proficiency in coding and testing methodologies to develop tailored solutions that meet client and business requirements<br><br> EDUCATION<br> University of Engineering and Technology,<br> Lahore Pakistan.<br> Bachelor of Science in Computer Science (BSCS)<br> 2017 – 2021<br><br> 
+<!---
+SKILLS<br><br> Front-End:<br>- HTML, CSS, Bootstrap<br>- Razor View<br>- Material Design <br>- TailwindCSS<br>- JavaScript <br>- TypeScript<br>- Angular 16/17/18<br>- AJAX/jQuery<br><br> Back-End:<br>- ASP.Net MVC<br>- ASP.Net Core<br>- C#<br>- Web-API (REST)<br>- Entity Framework Core<br>- Azure Function<br>- AWS Lambda Function<br>- HTTP/Timer Triggers<br>- DevExpress<br>- SSO (Auth0)<br>- SignalR<br>- Hangfire<br><br> Database:<br>- SQL Server<br>- PostgreSQL<br>- SQLite<br>- NoSQL<br><br> Tools:<br>- VisualStudio<br>- VS Code<br>- Swagger/Postman<br>- IIS Express<br>- GIT<br>- GitHub Desktop<br>- SSMS<br>- pgAdmin<br>- DbSchema<br>- drawSQL <br>- Figma<br>- Miro<br>- Docker<br>- Jira/Trello<br><br>DevOps:<br>- GitHub/Gitlab<br>- Azure DevOps<br>- CI/CD<br>- Azure Container Registry<br>- Container Apps<br>- App Services<br>- Virtualization<br>- Hetzner<br>- Proxmox VE<br><br>
+-->
+EXPERTISE<br>- Project Management<br>- Team Management<br>- Resource Training<br>- Proficient Troubleshooting<br>- Scrum & Agile Methodologies<br>- Web Application Design & Development<br>- SOLID Principles<br>- DRY (Don't Repeat Yourself)<br>- CQRS<br>- Design Patterns<br>- Structural Patterns (MVC, MVVM)<br>- Clean Architecture Patterns<br>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaiqbalcs&label=Profile%20views&color=0e75b6&style=flat" alt="usamaiqbalcs" /> </p>
 
